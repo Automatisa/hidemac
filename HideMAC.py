@@ -15,14 +15,15 @@ import random
 # Function: Banner()
 # Does fuck all, just puts out an epic banner!
 def banner():
-    print(".##..##..######..#####...######..##...##...####....####...........##..##....##............######.")
-    print(".##..##....##....##..##..##......###.###..##..##..##..##..........##..##...###............##.....")
-    print(".######....##....##..##..####....##.#.##..######..##..............##..##....##.............####..")
-    print(".##..##....##....##..##..##......##...##..##..##..##..##...........####.....##......##........##.")
-    print(".##..##..######..#####...######..##...##..##..##...####.............##....######....##....#####..")
-    print("..................................By.Infodox.and.DARK_LIGHTNING..................................")
-    print("                   This code is still under development. It still needs work.                    ")
-    print("      Email any bugs you find in this code to infodox [at] compsoc [dot] nuigalway [dot] ie      ")
+    print("  ___ ___ .__    .___          _____     _____  _________  ")
+    print(" /   |   \|__| __| _/ ____    /     \   /  _  \ \_   ___ \ ")
+    print("/    ~    \  |/ __ |_/ __ \  /  \ /  \ /  /_\  \/    \  \/ ")
+    print("\    Y    /  / /_/ |\  ___/ /    Y    |    |    \     \____")
+    print(" \___|_  /|__\____ | \___  >\____|__  |____|__  /\______  /")
+    print("       \/         \/     \/         \/        \/        \/ ")
+    print("")
+    print("       This code is still under development. It still needs work.")
+    print("Email any bugs you find in this code to infodox [at] compsoc [dot] nuigalway [dot] ie ")
 
 # Function: amiroot()
 def amiroot():
