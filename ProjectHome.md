@@ -1,0 +1,1 @@
+HideMAC is a MAC Address Spoofing tool for Linux. It simply changes the MAC address to a random value and is designed to be as user-friendly as possible. It was written as a learning tool for me to learn how to write user-friendly console apps in Python :)
